@@ -14,3 +14,5 @@ Conteúdo.
 * Converter texto em áudio
 * Transcrever áudios eficientemente
 * Desenvolver chatbot com reconhecimento vocal
+
+Não esqueçã de configurar o arquivo .env e o requirements.txt
