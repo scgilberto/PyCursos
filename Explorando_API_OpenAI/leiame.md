@@ -15,4 +15,4 @@ Conteúdo.
 * Transcrever áudios eficientemente
 * Desenvolver chatbot com reconhecimento vocal
 
-Não esqueçã de configurar o arquivo .env e o requirements.txt
+Configure o arquivo .env para autenticação e o requirements.txt
